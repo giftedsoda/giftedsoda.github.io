@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>高数笔记</title>
+    <link href="/2024/08/24/%E9%AB%98%E6%95%B0%E7%AC%94%E8%AE%B0/"/>
+    <url>/2024/08/24/%E9%AB%98%E6%95%B0%E7%AC%94%E8%AE%B0/</url>
+    
+    <content type="html"><![CDATA[<h1 id="高等数学"><a href="#高等数学" class="headerlink" title="高等数学"></a>高等数学</h1><h2 id="数列理论"><a href="#数列理论" class="headerlink" title="数列理论"></a>数列理论</h2><ul><li>夹逼准则：若$y_n\leq x_n\leq z_n$，且$\lim\limits_{x\rightarrow\infty}y_n&#x3D;\lim\limits_{x\rightarrow\infty}z_n&#x3D;c$，则$\lim\limits_{x\rightarrow\infty}x_n&#x3D;c$</li></ul><p>$\lim\limits_{x\rightarrow\infty}(1+\frac{1}{n})^{n}&#x3D;e$</p><ul><li><p>重要的不等式:</p><p>1.$a^{n}&gt;\frac{n^2(a-1)^2}{4}(n\ge2)$</p><p>2.$2^n&gt;\frac{n(n-1)}{2}(n&gt;2)$</p><p>3.$0&lt;|\frac{a^n}{n!}|&lt;\frac{(2|a|)^k}{2^n}$(k为任意大于2|a|的正整数，n&gt;k)</p><p>4.$\lim\limits_{x\rightarrow\infty}\sqrt[n]{n}&#x3D;1(1中a&#x3D;\sqrt[n]{n}易得)$</p><p>5.$n!\ge\frac{1}{2}n^{\frac{n}{2}}$（数学归纳法）</p><p>6.$\lim\limits_{x\rightarrow\infty}\frac{log_an}{n}&#x3D;0$</p><p>7.$\frac{1}{2}\cdot\frac{3}{4}\cdots\frac{2n-1}{2n}&lt;\frac{1}{\sqrt{2n+1}}$（数学归纳法）</p><p>8.$n!&gt;\frac{1}{2^{n-1}}(n&gt;2)$</p><ol start="9"><li></li></ol></li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>数学</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>《被讨厌的勇气》读后随笔</title>
     <link href="/2024/08/17/%E3%80%8A%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94%E3%80%8B%E8%AF%BB%E5%90%8E%E9%9A%8F%E7%AC%94/"/>
     <url>/2024/08/17/%E3%80%8A%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94%E3%80%8B%E8%AF%BB%E5%90%8E%E9%9A%8F%E7%AC%94/</url>
